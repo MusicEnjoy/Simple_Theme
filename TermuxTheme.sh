@@ -9,8 +9,8 @@ echo ""
 echo "  [---VISIT https://bajetech.org TO LEARN MORE---]"|lolcat
 echo "    _____   _____ _   _ _____ __  __ _____"|lolcat
 echo "   |_   _| |_   _| | | | ____|  \/  | ____|"|lolcat
-echo "     | |    | | | |_| |  _| | |\/| |  _|"  |lolcat
-echo "     | |     | | |  _  | |___| |  | | |___" |lolcat
+echo "     | |  _  | | | |_| |  _| | |\/| |  _|"  |lolcat
+echo "     | | |_| | | |  _  | |___| |  | | |___" |lolcat
 echo "     |_|     |_| |_| |_|_____|_|  |_|_____| V1.5"|lolcat
 echo "     [CREATED BY: HαρρყDҽʋιL]"|lolcat
 sleep 0.5

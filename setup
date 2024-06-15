@@ -1,0 +1,40 @@
+#!/bin/bash
+# Coded by MR CEO (HαρρყDҽʋιL)
+# Note: THIS IS NOTHING BUT BASH SCRIPT TO INSTALL THE REQUIREMENTS OF The TermuxTheme.
+
+clear
+pkg install python -y
+pip install lolcat
+clear
+sleep 0.0
+echo " ____  _____ _____ _   _ ____"|lolcat 
+echo "/ ___|| ____|_   _| | | |  _ \ "|lolcat
+echo "\___ \|  _|   | | | | | | |_) |"|lolcat
+echo " ___) | |___  | | | |_| |  __/ "|lolcat
+echo "|____/|_____| |_|  \___/|_| "|lolcat
+echo "       By HαρρყDҽʋιL"|lolcat
+sleep 1.0
+echo ""
+echo ""
+echo "BY RUNING THIS YOU MEAN THAT YOU WANNA SETUP THE TermuxTheme"|lolcat
+echo ""
+read -p "TO CONTINUE SETUP PRESS ENTER TO CANCEL PRESS CTRL + Z"
+echo ""
+echo "THE SETTING UP HAS GET STARTED NOW THIS MAY TAKE A WHILE"|lolcat
+sleep 1.0
+pkg update -y && pkg upgrade -y
+pkg install python3 -y
+pkg install git -y
+pip3 install lolcat
+pkg install mpv -y
+pkg install figlet -y
+pkg install toilet -y
+pkg install ruby -y
+clear
+echo "Congratulations you have installed all the necessary tools. "|lolcat
+echo "You can now run ./TermuxTheme.sh to get started."|lolcat
+sleep 2.0
+echo ""
+echo ""
+chmod 777 TermuxTheme.sh
+ls

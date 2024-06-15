@@ -26,8 +26,6 @@ TermuxTheme, this is one of the best Termux themer that used to switch Termux fr
 ## TESTED ON :
 * Termux Only.
 * Not Working On Others Like Kali Linux,ParrotSec,Ubuntu etc.
-*
-* DONATE ME TO MAKE IT BE AVAILABLE ON ANY OS.
 
 ### THE TOOL REQUIREMENTS:
 * Termux From Fdroid
@@ -52,7 +50,7 @@ git clone https://github.com/MusicEnjoy/TermuxTheme
 
 
 ```
-THIS TOOL IS CREATED AND MAINTAINED BY AliByte01 AND WILL KEEP UPDATING ALMOST ANYTIME AS WELL AS YOU WILL HOPEFULLY KEEP DONATING TO US.
+The script was successful.
 ```
 
 
